@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/.ghq/bitbucket.org/jmatsuda/formview/FormView/FormView.iml" filepath="$USER_HOME$/.ghq/bitbucket.org/jmatsuda/formview/FormView/FormView.iml" />
+      <module fileurl="file://$USER_HOME$/.ghq/bitbucket.org/jmatsuda/formview/FormView/formviewsample/formviewsample.iml" filepath="$USER_HOME$/.ghq/bitbucket.org/jmatsuda/formview/FormView/formviewsample/formviewsample.iml" />
+      <module fileurl="file://$USER_HOME$/.ghq/bitbucket.org/jmatsuda/formview/FormView/library/library.iml" filepath="$USER_HOME$/.ghq/bitbucket.org/jmatsuda/formview/FormView/library/library.iml" />
+    </modules>
+  </component>
+</project>
