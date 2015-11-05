@@ -1,2 +1,3 @@
 # AndroidFormView
-Easy to build html form-like views and mange it.
+Easy to build html form-like views and manage it.
+
